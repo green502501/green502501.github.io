@@ -1,7 +1,9 @@
-翡翠,http://s4567996.dns-1.qwtvweb.xyz/tv581.php?id=3
-J2,http://s4567996.dns-1.qwtvweb.xyz/tv581.php?id=4
-明珠,http://s4567996.dns-1.qwtvweb.xyz/tv581.php?id=5
-viv,http://s4567996.dns-1.qwtvweb.xyz/tv581.php?id=6
+翡翠,http://s4567996.dns-1.qwtvweb.xyz/tv581.php?id=3,mitv://107.148.223.220:48916/5fabc5bf000ee40efd270560088d2cae,tvbus://6TfjoohwSRMxGFboofPXSiezLKLkKxoKJM7mZ8eK7C5AZ3YaEttTM9UTsGJH7,tvbus://4r9sKX2HWCY2qzkbG322dSEMsZYJcYss2YumBs8BLC4adKRKiP
+J2,http://s4567996.dns-1.qwtvweb.xyz/tv581.php?id=4,tvbus://6VBHJgmSsrmSDg1tvDKeV2mUdN1VCbwc1rAqeeDPdvuwUwrYX6NkWrWmuwRC2 
+明珠,http://s4567996.dns-1.qwtvweb.xyz/tv581.php?id=5,tvbus://61V85DyYVcVZFMY2P5NRc8QM5wvHw6ZfvTDUqhL23AN33vNfKH3X9j4DKoU7r
+无线新闻,tvbus://5YsFaP1VuG7mcB23CypgZ9cNNsv3SJtESD8mZUdPHNNUGHm71b3fTKJCSH4HN,mitv://107.148.223.220:48916/5fabc5c000008259fd27059a746c4964
+无线财经,tvbus://5nnVu5zrakfKsbHge4dMaBbyeK3b4ch6135Mw5woUfpZJ1SsrJw6LF5Uc8kf4
+viv,http://s4567996.dns-1.qwtvweb.xyz/tv581.php?id=6,tvbus://5TRJtBkaYNHuAjqkYALafieT8hqjSGZUxhMh2VMRATqokeyTxKVDrrSWjLQiR 
 中天,http://s4567996.dns-1.qwtvweb.xyz/tv581.php?id=7
 东森,http://s4567996.dns-1.qwtvweb.xyz/tv581.php?id=8
 有线,http://s4567996.dns-1.qwtvweb.xyz/tv581.php?id=1
