@@ -1,0 +1,15 @@
+翡翠,http://s4567996.dns-1.qwtvweb.xyz/tv581.php?id=3
+J2,http://s4567996.dns-1.qwtvweb.xyz/tv581.php?id=4
+明珠,http://s4567996.dns-1.qwtvweb.xyz/tv581.php?id=5
+viv,http://s4567996.dns-1.qwtvweb.xyz/tv581.php?id=6
+中天,http://s4567996.dns-1.qwtvweb.xyz/tv581.php?id=7
+东森,http://s4567996.dns-1.qwtvweb.xyz/tv581.php?id=8
+有线,http://s4567996.dns-1.qwtvweb.xyz/tv581.php?id=1
+凤凰卫视,http://hdtv.haust.edu.cn/hls/fhzw.m3u8
+凤凰资讯,http://hdtv.haust.edu.cn/hls/fhzx.m3u8
+凤凰电影,http://hdtv.haust.edu.cn/hls/fhdy.m3u8
+探索频道,http://hdtv.haust.edu.cn/hls/discovery.m3u8
+Channel[V],http://hdtv.haust.edu.cn/hls/channelv.m3u8
+星空卫视,http://hdtv.haust.edu.cn/hls/startv.m3u8
+国家地理,http://hdtv.haust.edu.cn/hls/natlgeo.m3u8
+Star Sport,http://hdtv.haust.edu.cn/hls/starsports.m3u8
